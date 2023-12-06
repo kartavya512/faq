@@ -1,0 +1,14 @@
+.gradient{
+ 
+  background-image: linear-gradient(hsl(240, 73%, 65%), hsl(273, 75%, 66%));
+ 
+
+
+background-repeat: no-repeat;
+
+  
+}
+.question{
+  color: hsl(240, 6%, 50%);
+}
+
